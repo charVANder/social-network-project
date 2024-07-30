@@ -6,7 +6,7 @@ This is a web application built on a MERN Stack. Final project for Web Developme
   <summary>Front End</summary>
   <ul>
     <li><a href="https://github.com/facebook/react">React</a> - JavaScript library for building UI.</li>
-    <li><a href="https://github.com/twbs/bootstrap">Bootstrap</a> - framework for styling and developmen.</li>
+    <li><a href="https://github.com/twbs/bootstrap">Bootstrap</a> - framework for styling and development.</li>
     <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
   </ul>
 </details>
